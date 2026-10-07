@@ -4,6 +4,9 @@
 ## 📌 Visão Geral
 Este projeto analisa a base de clientes de um serviço de streaming por assinatura para entender quem cancela, por quê e em que momento da vida do cliente o cancelamento (churn) acontece. Utilizamos análise exploratória de dados (limpeza, análise univariada e bivariada) e frameworks de negócio (cohort, RFM e Pareto) para transformar um extrato bruto de clientes em hipóteses acionáveis sobre retenção.
 
+📄 [Veja a análise no Jupyter Notebook]
+(https://github.com/Vinicius-Fiorotto/streaming_churn/blob/master/notebook/Estatística_I.ipynb)
+
 ## 💼 Entendimento do Negócio
 
 Em um serviço de assinatura, reter um cliente custa muito menos do que adquirir um novo — por isso, entender o churn é uma das análises de maior impacto financeiro. A empresa deste caso desconfia que vem perdendo assinantes, mas não sabe quem cancela, por que cancela, nem em que momento da relação isso acontece. Este projeto explora os dados para responder a essas perguntas antes de qualquer modelo preditivo.
